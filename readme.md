@@ -9,14 +9,17 @@ This project is build using Nodejs and express.
 Method POST: https://twf-backend-task.onrender.com/translate
 
 It accept JSON data in the request body
+```
+## Input
 
-Input:
+```bash
 {
     "text":"text for translate"
-
 }
+```
+## Output
 
-Output :
+```bash
 {
     "translation": "french translated text"
 }
