@@ -25,7 +25,7 @@ It accept JSON data in the request body
 }
 ```
 
-# Installation and Run
+## Installation and Run
 
 ```bash 
 Clone :git clone https://github.com/abhms/twf-backend-task.git
@@ -34,7 +34,7 @@ Install dependencies : npm install
 
 Run : npm start 
 ```
-# Create .env file with below details
+## Create .env file with below details
 
 ```bash
 PORT= 
